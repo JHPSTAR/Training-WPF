@@ -1,1 +1,4 @@
 # Training-WPF
+
+- PropertyChanged
+- MVVM
